@@ -10,3 +10,9 @@ class Vertebrado{
     public:
         void InfGeneral();
 };
+print("hola")
+
+int main(){
+    return 0;
+ 
+}
